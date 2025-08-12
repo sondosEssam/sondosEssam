@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sondos</h1>
-<h3 align="center">Currently a student in Computer Engineering and passioante abotu software Engineering! i have done a lot of projects in my years of collage trying out diffrent things with passion of learing</h3>
+<h3 align="center">Currently a student in Computer Engineering and passioante about software Engineering! i have done a lot of projects in my years of collage trying out diffrent things with passion of learing</h3>
 
 - 🌱 I’m currently learning **Angular, Nodejs, express**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sondosEssam](https://github.com/sondosEssam)
 
-- Ask me about **React, Software principles**
+- Ask me about **React, C#, python, c++**
 
 - 📫 How to reach me **sondosessam713@gmail.com**
 
